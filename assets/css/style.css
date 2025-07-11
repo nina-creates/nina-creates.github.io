@@ -12,3 +12,10 @@ a {
 a:hover {
   color: #ffffff;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+}
