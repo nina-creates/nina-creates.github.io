@@ -1,0 +1,9 @@
+title: Nina Creates
+email: your-email@example.com
+description: >
+  A passionate, creative hub for comics, photography, writing, and more.
+baseurl: ""
+url: "https://nina-creates.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
